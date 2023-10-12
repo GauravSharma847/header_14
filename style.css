@@ -9,6 +9,7 @@ body {
 
 /* Apply padding to the page container */
 .page-container {
+    height : 100vh;
     padding: 30px 150px;
 }
 
